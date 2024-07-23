@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @oDr0zd
-- 👀 I’m interested in web, modile and AI systems development
+- 👀 I’m interested in web and AI systems development
 ## 📫 How to reach me? 
 - odrozd.iosdev@gmail.com
 - telegram: @alex_coding
